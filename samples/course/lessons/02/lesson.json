@@ -1,0 +1,8 @@
+{
+  "number": 2,
+  "title": "Начало работы с PHP",
+  "topic": "Основы",
+  "inTopicNumber": 2,
+  "url": "https://code.mu/ru/php/book/prime/basis/start/",
+  "contentHTML": "\n<p>\n\tДля запуска PHP локально необходима программа-сервер.\n</p>\n<pre><code>&lt;?php\n\techo 'Привет, мир!';\n?&gt;</code></pre>\n"
+}

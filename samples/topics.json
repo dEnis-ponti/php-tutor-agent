@@ -1,0 +1,38 @@
+{
+  "topics": [
+    {
+      "id": "basics",
+      "title": "Основы",
+      "position": { "x": 50, "y": 50 },
+      "size": { "width": 180, "height": 50 },
+      "color": "#fdff00",
+      "lessons": [
+        { "id": 1, "title": "Введение в JavaScript" },
+        { "id": 2, "title": "Переменные" },
+        { "id": 3, "title": "Типы данных" }
+      ]
+    },
+    {
+      "id": "conditionals",
+      "title": "Условия",
+      "position": { "x": 250, "y": 50 },
+      "size": { "width": 180, "height": 50 },
+      "color": "#fdff00",
+      "lessons": [
+        { "id": 4, "title": "Операторы сравнения" },
+        { "id": 5, "title": "Условные конструкции" }
+      ]
+    },
+    {
+      "id": "loops",
+      "title": "Циклы",
+      "position": { "x": 450, "y": 50 },
+      "size": { "width": 180, "height": 50 },
+      "color": "#fdff00",
+      "lessons": [
+        { "id": 6, "title": "Цикл for" },
+        { "id": 7, "title": "Цикл while" }
+      ]
+    }
+  ]
+}

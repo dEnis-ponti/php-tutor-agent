@@ -1,0 +1,5 @@
+{
+  "model": "php-tutor-qwen",
+  "ollama_url": "http://localhost:11434/api",
+  "lessons_path": "C:\\path\\to\\your-course\\src\\lessons"
+}

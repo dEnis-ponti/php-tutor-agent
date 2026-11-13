@@ -1,0 +1,5 @@
+/vendor/
+/progress.json
+/config.json
+composer.phar
+samples/live-output*.log

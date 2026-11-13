@@ -1,0 +1,17 @@
+{
+    "name": "dipan/php-tutor-agent",
+    "authors": [
+        {
+            "name": "D.Panteleev",
+            "email": "delavaifag@gmail.com"
+        }
+    ],
+    "require": {
+        "neuron-core/neuron-ai": "^3.17"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
